@@ -1,2 +1,2 @@
-# index.html
+# newslatter.html
 news
